@@ -8,5 +8,5 @@ IMPORTANT  :  La seule ACTION   REQUISE
 LORS de l'INSTALLATION lorsque wincfg s'ouvre BIEN SELECTIONNER le SYSTEME Windows 10 
 
 ******
-
+Le fichier est fourni tel quel. Testé sur Linux Mint 
 
