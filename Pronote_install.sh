@@ -114,6 +114,7 @@ wine pronote_install.exe
 
 if [ $? -eq 0 ]; then
     echo "PRONOTE a été installé avec succès."
+    rm -f pronote_install.exe
 else
     echo "L'installation a échoué."
 fi
