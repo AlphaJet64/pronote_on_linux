@@ -1,6 +1,6 @@
 # Pronote_on_linux
 Installation "automatique" sous Wine du client pronote FR sur linux debian et derivés ubuntu mint, fedora, arch. 
-- Télécharger le fichier [pronote_install.sh] (https://raw.github.com/AlphaJet64/pronote_on_linux/blob/main/pronote64_install.sh)
+- Télécharger le fichier [pronote_install.sh] (https://raw.githubusercontent.com/AlphaJet64/pronote_on_linux/main/pronote64_install.sh)
 - Ouvrir un terminal (sur MINT : clic droit dans le dossier Téléchargements puis Ouvrir dans un terminal) 
 - Taper  bash pronote64_install.sh 
 et ... patience
