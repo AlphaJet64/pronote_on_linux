@@ -3,12 +3,12 @@ Installation "automatique" sous Wine du client pronote FR sur linux debian et de
 ## 📥 Télécharger le script
 
 Pour télécharger le script, faites un **clic droit** sur le lien ci-dessous et choisissez  
-**« Enregistrer le lien sous… »** (ou « Save link as… » selon votre navigateur) :
+**« Enregistrer la cible du lien sous… »** (ou « Save link as… » selon votre navigateur) :
 
 [⬇️ Télécharger pronote64_install.sh](https://raw.githubusercontent.com/AlphaJet64/pronote_on_linux/main/pronote64_install.sh)
 
-**Astuce** :  
-Si le lien ouvre le script dans le navigateur, faites un clic droit sur la page et choisissez  
+**Astuce** Si vous avez fait un clic gauche:  
+Le lien ouvre le script dans le navigateur, faites un clic droit sur la page et choisissez  
 **« Enregistrer sous… »** pour sauvegarder le fichier sur votre ordinateur.
 
 - Ouvrir un terminal (sur MINT : clic droit dans le dossier Téléchargements puis Ouvrir dans un terminal) 
