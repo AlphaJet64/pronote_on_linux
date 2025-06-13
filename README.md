@@ -1,7 +1,8 @@
 # Pronote_on_linux
-Installation "automatique" du client pronote FR sur linux debian et derivés ubuntu mint, fedora, arch.
-- Télécharger le fichier pronote_install.sh le rendre exécutable : chmod +x pronote_install.sh
-- Lancer le fichier sur un terminal : bash pronote64_install.sh 
+Installation "automatique" sous Wine du client pronote FR sur linux debian et derivés ubuntu mint, fedora, arch. 
+- Télécharger le fichier pronote_install.sh
+- Ouvrir un terminal (sur MINT : clic droit dans le dossier Téléchargements puis Ouvrir dans un terminal) 
+- Taper  bash pronote64_install.sh 
 et ... patience
 
 IMPORTANT  :  La seule ACTION   REQUISE (si nécessaire)
