@@ -10,7 +10,7 @@ IMPORTANT  :  La seule ACTION   REQUISE (si nécessaire)
 LORS de l'INSTALLATION lorsque wincfg s'ouvre BIEN SELECTIONNER le SYSTEME Windows 10 
 ******
 
-Le fichier est fourni tel quel testé sur LinuxMint 22.1 
+Le fichier est fourni tel quel, testé sur LinuxMint 22.1 
 
 L'installation se fait dans un PREFIX ~/.wine-pronote ainsi que wine64 wine32 winetricks
 
