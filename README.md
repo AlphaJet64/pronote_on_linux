@@ -14,15 +14,11 @@ Le lien ouvre le script dans le navigateur, faites un clic droit sur la page et 
 - Ouvrir un terminal (sur MINT : clic droit dans le dossier Téléchargements puis Ouvrir dans un terminal) 
 - Taper  bash pronote64_install.sh 
 et ... patience
-
-IMPORTANT  :  La seule ACTION   REQUISE (si nécessaire)
-******  
-LORS de l'INSTALLATION lorsque wincfg s'ouvre BIEN SELECTIONNER le SYSTEME Windows 10 
-******
+ATTENTION : pas sh mais bash !
 
 Le fichier est fourni tel quel, testé sur LinuxMint 22.1 
 
-L'installation se fait dans un PREFIX ~/.wine-pronote ainsi que wine64 wine32 winetricks
+L'installation se fait dans un PREFIX=~/.wine-pronote ainsi que wine64 wine32 winetricks
 
 Elle peut créer un lien sur le bureau (à accepter lors de l'installation). Si tout se passe bien l'icone apparait sur le lien du Bureau, sinon le trouver dans ~/.wine-pronote
 
