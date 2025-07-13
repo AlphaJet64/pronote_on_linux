@@ -12,8 +12,10 @@ Le lien ouvre le script dans le navigateur, faites un clic droit sur la page et 
 **« Enregistrer sous… »** pour sauvegarder le fichier sur votre ordinateur.
 
 - Ouvrir un terminal (sur MINT : clic droit dans le dossier Téléchargements puis Ouvrir dans un terminal) 
-- Taper  bash pronote64_install.sh 
+- Taper  bash pronote64_install.sh
+  
 et ... patience
+
 ATTENTION : pas sh mais bash !
 
 Le fichier est fourni tel quel, testé sur LinuxMint 22.1 
